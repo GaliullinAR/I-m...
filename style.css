@@ -12,7 +12,7 @@ body {
 }
 
 .animation-text {
-    font-size: 34px;
+    font-size: 28px;
     min-width: 280px;
     
 }
@@ -47,10 +47,10 @@ body {
 
 @keyframes words {
     0%,20% {
-        content: 'Eldar'
+        content: 'Iline Eldar'
     }
     21%,40% {
-        content: 'Azat'
+        content: 'Galiullin Azat'
     }
     41%,60% {
         content: 'Developer'
