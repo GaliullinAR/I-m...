@@ -12,9 +12,9 @@ body {
 }
 
 .animation-text {
-    font-size: 28px;
     min-width: 280px;
-    
+    font-size: 28px;
+
 }
 
 .animation-text span {
